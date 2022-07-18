@@ -1,0 +1,7 @@
+<div [class.blackTopic]="isBlackTopic">
+                    <h1 [class.verdanaFont]="isVerdana">Hello Angular</h1>
+                    <p [class.navyColor]="isNavy" [class.segoePrintFont]="true">
+                        Angular представляет модульную архитектуру приложения
+                    </p>
+                </div>
+<input (click)="clickLog()" type="checkbox" [(ngModel)]="isBlackTopic"/>

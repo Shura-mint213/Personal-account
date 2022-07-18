@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Client",
+    "\\Client\\src",
+    "\\Client\\src\\app",
+    "\\Client\\src\\app\\components",
+    "\\Client\\src\\app\\components\\child"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Client\\src\\app\\components\\child\\child.component.ts",
   "PreviewInSolutionExplorer": false
 }
